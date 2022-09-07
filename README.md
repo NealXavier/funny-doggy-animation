@@ -1,2 +1,2 @@
 # funny-doggy-animation
-funny react native animation
+funny React Native animation
